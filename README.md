@@ -22,6 +22,6 @@ $ npm run dev
 Open "config/keys.js" and add your MongoDB URI, local or Atlas
 
 
-![firstPage](http://localhost:5000/)
-![registerPage](http://localhost:5000/users/register)
-![loginPage](http://localhost:5000/users/login)
+![firstPage](https://github.com/ChanaShmuel/Registration-and-Login/blob/main/images/homepage.jpg)
+![registerPage](https://github.com/ChanaShmuel/Registration-and-Login/blob/main/images/login.jpg)
+![loginPage](https://github.com/ChanaShmuel/Registration-and-Login/blob/main/images/register.jpg)
